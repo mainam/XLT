@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Data>
+  <BacHoc>
+    <BacHocItems>Đại Học</BacHocItems>
+    <BacHocItems>Cao Đẳng</BacHocItems>
+    <BacHocItems>Trung Cấp</BacHocItems>
+    <BacHocItems>Tại Chức</BacHocItems>
+  </BacHoc>
+  <GioThi>
+    <GioThiItems>
+      <Ngay>09/09/2012</Ngay>
+      <Gio> 7:00</Gio>
+    </GioThiItems>
+    <GioThiItems>
+      <Ngay>09/09/2012</Ngay>
+      <Gio> 9:00</Gio>
+    </GioThiItems>
+    <GioThiItems>
+      <Ngay>09/09/2012</Ngay>
+      <Gio> 15:00</Gio>
+    </GioThiItems>
+    <GioThiItems>
+      <Ngay>10/09/2012</Ngay>
+      <Gio> 7:00</Gio>
+    </GioThiItems>
+    <GioThiItems>
+      <Ngay>10/09/2012</Ngay>
+      <Gio> 9:00</Gio>
+    </GioThiItems>
+    <GioThiItems>
+      <Ngay>10/09/2012</Ngay>
+      <Gio> 13:00</Gio>
+    </GioThiItems>
+    <GioThiItems>
+      <Ngay>10/09/2012</Ngay>
+      <Gio> 15:00</Gio>
+    </GioThiItems>
+    <GioThiItems>
+      <Ngay>11/09/2012</Ngay>
+      <Gio> 7:00</Gio>
+    </GioThiItems>
+    <GioThiItems>
+      <Ngay>11/09/2012</Ngay>
+      <Gio> 9:00</Gio>
+    </GioThiItems>
+    <GioThiItems>
+      <Ngay>11/09/2012</Ngay>
+      <Gio> 13:00</Gio>
+    </GioThiItems>
+    <GioThiItems>
+      <Ngay>11/09/2012</Ngay>
+      <Gio> 15:00</Gio>
+    </GioThiItems>
+    <GioThiItems>
+      <Ngay>12/09/2012</Ngay>
+      <Gio> 7:00</Gio>
+    </GioThiItems>
+    <GioThiItems>
+      <Ngay>12/09/2012</Ngay>
+      <Gio> 9:00</Gio>
+    </GioThiItems>
+    <GioThiItems>
+      <Ngay>12/09/2012</Ngay>
+      <Gio> 13:00</Gio>
+    </GioThiItems>
+    <GioThiItems>
+      <Ngay>12/09/2012</Ngay>
+      <Gio> 15:00</Gio>
+    </GioThiItems>
+    <GioThiItems>
+      <Ngay>13/09/2012</Ngay>
+      <Gio> 7:00</Gio>
+    </GioThiItems>
+    <GioThiItems>
+      <Ngay>13/09/2012</Ngay>
+      <Gio> 9:00</Gio>
+    </GioThiItems>
+    <GioThiItems>
+      <Ngay>13/09/2012</Ngay>
+      <Gio> 13:00</Gio>
+    </GioThiItems>
+    <GioThiItems>
+      <Ngay>13/09/2012</Ngay>
+      <Gio> 15:00</Gio>
+    </GioThiItems>
+    <GioThiItems>
+      <Ngay>14/09/2012</Ngay>
+      <Gio> 7:00</Gio>
+    </GioThiItems>
+    <GioThiItems>
+      <Ngay>14/09/2012</Ngay>
+      <Gio> 9:00</Gio>
+    </GioThiItems>
+    <GioThiItems>
+      <Ngay>14/09/2012</Ngay>
+      <Gio> 13:00</Gio>
+    </GioThiItems>
+    <GioThiItems>
+      <Ngay>14/09/2012</Ngay>
+      <Gio> 15:00</Gio>
+    </GioThiItems>
+  </GioThi>
+  <TaiKhoan>
+    <User>admin</User>
+    <Pass>204F5A60A1877106003CC0DD56D3EC4F</Pass>
+  </TaiKhoan>
+  <PhongHoc>
+    <PhongItems>
+      <TenPhong>A6mt</TenPhong>
+      <SoCho>120</SoCho>
+    </PhongItems>
+    <PhongItems>
+      <TenPhong>A21</TenPhong>
+      <SoCho>100</SoCho>
+    </PhongItems>
+    <PhongItems>
+      <TenPhong>Thực Hành</TenPhong>
+      <SoCho>60</SoCho>
+    </PhongItems>
+  </PhongHoc>
+</Data>

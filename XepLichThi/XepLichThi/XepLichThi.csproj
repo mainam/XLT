@@ -1,0 +1,282 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{16095583-5A86-4A14-B490-09891E39B7B8}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>XepLichThi</RootNamespace>
+    <AssemblyName>XepLichThi</AssemblyName>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>1330707052_vcalendar.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevComponents.DotNetBar.Design, Version=9.4.0.0, Culture=neutral, PublicKeyToken=3caa4ad0ba35cf8d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\DevComponents.DotNetBar.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="DevComponents.DotNetBar2, Version=9.4.0.0, Culture=neutral, PublicKeyToken=d159a0cb0c2a1170, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\DevComponents.DotNetBar2.dll</HintPath>
+    </Reference>
+    <Reference Include="DevComponents.Instrumentation, Version=9.4.0.0, Culture=neutral, PublicKeyToken=105a14414ec031c3, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\DevComponents.Instrumentation.dll</HintPath>
+    </Reference>
+    <Reference Include="DevComponents.Instrumentation.Design, Version=9.4.0.0, Culture=neutral, PublicKeyToken=d0972e594baf5baf, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\DevComponents.Instrumentation.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="DevComponents.TreeGX, Version=9.4.0.0, Culture=neutral, PublicKeyToken=9798720bc71d32b1, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\DevComponents.TreeGX.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="frmChonNhom.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmChonNhom.Designer.cs">
+      <DependentUpon>frmChonNhom.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmChonPhong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmChonPhong.Designer.cs">
+      <DependentUpon>frmChonPhong.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDangKi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDangKi.Designer.cs">
+      <DependentUpon>frmDangKi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDangNhap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDangNhap.Designer.cs">
+      <DependentUpon>frmDangNhap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="dsLichThi.cs">
+      <DependentUpon>dsLichThi.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="dsLichThi.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dsLichThi.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="frmDoiMatKhau.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDoiMatKhau.Designer.cs">
+      <DependentUpon>frmDoiMatKhau.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLoadData.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLoadData.Designer.cs">
+      <DependentUpon>frmLoadData.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmQlTiet.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmQlTiet.Designer.cs">
+      <DependentUpon>frmQlTiet.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSelectNhom.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSelectNhom.Designer.cs">
+      <DependentUpon>frmSelectNhom.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSelectPhong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSelectPhong.Designer.cs">
+      <DependentUpon>frmSelectPhong.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmFormMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmFormMain.Designer.cs">
+      <DependentUpon>frmFormMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmQlBacHoc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmQlBacHoc.Designer.cs">
+      <DependentUpon>frmQlBacHoc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmQlPhongHoc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmQlPhongHoc.Designer.cs">
+      <DependentUpon>frmQlPhongHoc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmReport.Designer.cs">
+      <DependentUpon>frmReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="frmChonNhom.resx">
+      <DependentUpon>frmChonNhom.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmChonPhong.resx">
+      <DependentUpon>frmChonPhong.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDangKi.resx">
+      <DependentUpon>frmDangKi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDangNhap.resx">
+      <DependentUpon>frmDangNhap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDoiMatKhau.resx">
+      <DependentUpon>frmDoiMatKhau.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLoadData.resx">
+      <DependentUpon>frmLoadData.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmQlTiet.resx">
+      <DependentUpon>frmQlTiet.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSelectNhom.resx">
+      <DependentUpon>frmSelectNhom.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSelectPhong.resx">
+      <DependentUpon>frmSelectPhong.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmFormMain.resx">
+      <DependentUpon>frmFormMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmQlBacHoc.resx">
+      <DependentUpon>frmQlBacHoc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmQlPhongHoc.resx">
+      <DependentUpon>frmQlPhongHoc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmReport.resx">
+      <DependentUpon>frmReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="app.config" />
+    <None Include="dsLichThi.xsc">
+      <DependentUpon>dsLichThi.xsd</DependentUpon>
+    </None>
+    <None Include="dsLichThi.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dsLichThi.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="dsLichThi.xss">
+      <DependentUpon>dsLichThi.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="1330707052_vcalendar.ico" />
+    <Content Include="bin\Debug\DataAccess.dll" />
+    <EmbeddedResource Include="bin\Debug\DevComponents.DotNetBar2.dll" />
+    <None Include="Resources\1348675936_Home.png" />
+    <None Include="Resources\house-icon.png" />
+    <None Include="Resources\setting.png" />
+    <None Include="Resources\time.png" />
+    <None Include="Resources\education.png" />
+    <None Include="Resources\logo2.png" />
+    <None Include="Resources\Dragon-Ball.ico" />
+    <None Include="Resources\stock-vector-black-and-white-ball-71937790.jpg" />
+    <None Include="Resources\Download-icon.png" />
+    <None Include="Resources\Open-Folder-Info-icon.png" />
+    <None Include="Resources\App-tutorials-icon.png" />
+    <None Include="Resources\colors-icon.png" />
+    <None Include="Resources\Apps-preferences-desktop-user-password-icon.png" />
+    <None Include="Resources\Login-icon.png" />
+    <None Include="Resources\Time-Machine-icon.png" />
+    <None Include="Resources\Printer-icon.png" />
+    <None Include="Resources\Excel-icon.png" />
+    <None Include="Resources\Actions-view-calendar-list-icon.png" />
+    <None Include="Resources\Actions-edit-clear-list-icon.png" />
+    <None Include="Resources\Calendar-icon.png" />
+    <None Include="Resources\User-Group-icon.png" />
+    <None Include="Resources\Button-Close-icon.png" />
+    <None Include="Resources\Floppy-Drive-icon.png" />
+    <None Include="Resources\Status-wallet-open-icon.png" />
+    <None Include="Resources\Button-Log-Off-icon.png" />
+    <None Include="Resources\open-key-icon.png" />
+    <None Include="Resources\logo.PNG" />
+    <None Include="Resources\col.png" />
+    <None Include="Resources\a.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DataAccess\DataAccess.csproj">
+      <Project>{9F0EC8FE-232D-4250-BD0B-12081B808235}</Project>
+      <Name>DataAccess</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

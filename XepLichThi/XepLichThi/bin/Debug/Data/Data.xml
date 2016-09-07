@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Data>
+  <BacHoc>
+    <BacHocItems>ĐẠI HỌC</BacHocItems>
+    <BacHocItems>CAO ĐẢNG</BacHocItems>
+    <BacHocItems>TRUNG CẤP</BacHocItems>
+  </BacHoc>
+  <TaiKhoan>
+    <User>admin</User>
+    <Pass>7A57A5A743894A0E21232F294A801FC3</Pass>
+  </TaiKhoan>
+</Data>

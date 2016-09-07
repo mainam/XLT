@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dsLichThi" targetNamespace="http://tempuri.org/dsLichThi.xsd" xmlns:mstns="http://tempuri.org/dsLichThi.xsd" xmlns="http://tempuri.org/dsLichThi.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dsLichThi" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="dsLichThi" msprop:Generator_UserDSName="dsLichThi">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="dtLichThi" msprop:Generator_TableClassName="dtLichThiDataTable" msprop:Generator_TableVarName="tabledtLichThi" msprop:Generator_RowChangedName="dtLichThiRowChanged" msprop:Generator_TablePropName="dtLichThi" msprop:Generator_RowDeletingName="dtLichThiRowDeleting" msprop:Generator_RowChangingName="dtLichThiRowChanging" msprop:Generator_RowEvHandlerName="dtLichThiRowChangeEventHandler" msprop:Generator_RowDeletedName="dtLichThiRowDeleted" msprop:Generator_RowClassName="dtLichThiRow" msprop:Generator_UserTableName="dtLichThi" msprop:Generator_RowEvArgName="dtLichThiRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="STT" msprop:Generator_ColumnVarNameInTable="columnSTT" msprop:Generator_ColumnPropNameInRow="STT" msprop:Generator_ColumnPropNameInTable="STTColumn" msprop:Generator_UserColumnName="STT" type="xs:short" minOccurs="0" />
+              <xs:element name="MAHP" msprop:Generator_ColumnVarNameInTable="columnMAHP" msprop:Generator_ColumnPropNameInRow="MAHP" msprop:Generator_ColumnPropNameInTable="MAHPColumn" msprop:Generator_UserColumnName="MAHP" type="xs:string" minOccurs="0" />
+              <xs:element name="TENHP" msprop:Generator_ColumnVarNameInTable="columnTENHP" msprop:Generator_ColumnPropNameInRow="TENHP" msprop:Generator_ColumnPropNameInTable="TENHPColumn" msprop:Generator_UserColumnName="TENHP" type="xs:string" minOccurs="0" />
+              <xs:element name="SOTC" msprop:Generator_ColumnVarNameInTable="columnSOTC" msprop:Generator_ColumnPropNameInRow="SOTC" msprop:Generator_ColumnPropNameInTable="SOTCColumn" msprop:Generator_UserColumnName="SOTC" type="xs:short" minOccurs="0" />
+              <xs:element name="SOSV" msprop:Generator_ColumnVarNameInTable="columnSOSV" msprop:Generator_ColumnPropNameInRow="SOSV" msprop:Generator_ColumnPropNameInTable="SOSVColumn" msprop:Generator_UserColumnName="SOSV" type="xs:short" minOccurs="0" />
+              <xs:element name="HTTHI" msprop:Generator_ColumnVarNameInTable="columnHTTHI" msprop:Generator_ColumnPropNameInRow="HTTHI" msprop:Generator_ColumnPropNameInTable="HTTHIColumn" msprop:Generator_UserColumnName="HTTHI" type="xs:string" minOccurs="0" />
+              <xs:element name="THOILUONG" msprop:Generator_ColumnVarNameInTable="columnTHOILUONG" msprop:Generator_ColumnPropNameInRow="THOILUONG" msprop:Generator_ColumnPropNameInTable="THOILUONGColumn" msprop:Generator_UserColumnName="THOILUONG" type="xs:string" minOccurs="0" />
+              <xs:element name="NGAYTHI" msprop:Generator_ColumnVarNameInTable="columnNGAYTHI" msprop:Generator_ColumnPropNameInRow="NGAYTHI" msprop:Generator_ColumnPropNameInTable="NGAYTHIColumn" msprop:Generator_UserColumnName="NGAYTHI" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="GIOTHI" msprop:Generator_ColumnVarNameInTable="columnGIOTHI" msprop:Generator_ColumnPropNameInRow="GIOTHI" msprop:Generator_ColumnPropNameInTable="GIOTHIColumn" msprop:Generator_UserColumnName="GIOTHI" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="PHONGTHI" msprop:Generator_ColumnVarNameInTable="columnPHONGTHI" msprop:Generator_ColumnPropNameInRow="PHONGTHI" msprop:Generator_ColumnPropNameInTable="PHONGTHIColumn" msprop:Generator_UserColumnName="PHONGTHI" type="xs:string" minOccurs="0" />
+              <xs:element name="LOP" msprop:Generator_ColumnVarNameInTable="columnLOP" msprop:Generator_ColumnPropNameInRow="LOP" msprop:Generator_ColumnPropNameInTable="LOPColumn" msprop:Generator_UserColumnName="LOP" type="xs:string" minOccurs="0" />
+              <xs:element name="GV" msprop:Generator_ColumnVarNameInTable="columnGV" msprop:Generator_ColumnPropNameInRow="GV" msprop:Generator_ColumnPropNameInTable="GVColumn" msprop:Generator_UserColumnName="GV" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

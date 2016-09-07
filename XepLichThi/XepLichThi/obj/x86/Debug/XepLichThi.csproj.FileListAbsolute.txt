@@ -1,0 +1,221 @@
+E:\Thai\Nghien cuu\bai lam\XepLichThi\XepLichThi\bin\Debug\XepLichThi.exe.config
+E:\Thai\Nghien cuu\bai lam\XepLichThi\XepLichThi\obj\x86\Debug\XepLichThi.frmXepLichThi.resources
+E:\Thai\Nghien cuu\bai lam\XepLichThi\XepLichThi\obj\x86\Debug\XepLichThi.Properties.Resources.resources
+E:\Thai\Nghien cuu\bai lam\XepLichThi\XepLichThi\bin\Debug\XepLichThi.exe
+E:\Thai\Nghien cuu\bai lam\XepLichThi\XepLichThi\bin\Debug\XepLichThi.pdb
+E:\Thai\Nghien cuu\bai lam\XepLichThi\XepLichThi\bin\Debug\DevComponents.DotNetBar.Design.dll
+E:\Thai\Nghien cuu\bai lam\XepLichThi\XepLichThi\bin\Debug\DevComponents.DotNetBar2.dll
+E:\Thai\Nghien cuu\bai lam\XepLichThi\XepLichThi\bin\Debug\DevComponents.Instrumentation.Design.dll
+E:\Thai\Nghien cuu\bai lam\XepLichThi\XepLichThi\bin\Debug\DevComponents.Instrumentation.dll
+E:\Thai\Nghien cuu\bai lam\XepLichThi\XepLichThi\bin\Debug\DevComponents.TreeGX.dll
+E:\Thai\Nghien cuu\bai lam\XepLichThi\XepLichThi\bin\Debug\DevComponents.Instrumentation.xml
+E:\Thai\Nghien cuu\bai lam\XepLichThi\XepLichThi\obj\x86\Debug\XepLichThi.exe
+E:\Thai\Nghien cuu\bai lam\XepLichThi\XepLichThi\obj\x86\Debug\XepLichThi.pdb
+E:\Thai\Nghien cuu\bai lam\XepLichThi\XepLichThi\obj\x86\Debug\XepLichThi.frmDangNhap.resources
+E:\Thai\Nghien cuu\bai lam\XepLichThi\XepLichThi\obj\x86\Debug\XepLichThi.frmReport.resources
+E:\Thai\Nghien cuu\bai lam\XepLichThi\XepLichThi\obj\x86\Debug\RdlCompile.cache
+E:\Thai\Nghien cuu\bai lam\XepLichThi\XepLichThi\obj\x86\Debug\RdlCompile.compiled
+E:\Thai\Nghien cuu\bai lam\XepLichThi\XepLichThi\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Thai\Nghien cuu\bai lam\XepLichThi\XepLichThi\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+E:\Thai\Nghien cuu\bai lam\XepLichThi\XepLichThi\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+F:\Thai\Nghien cuu\bai lam\XepLichThi\XepLichThi\bin\Debug\XepLichThi.exe.config
+F:\Thai\Nghien cuu\bai lam\XepLichThi\XepLichThi\obj\x86\Debug\XepLichThi.exe
+F:\Thai\Nghien cuu\bai lam\XepLichThi\XepLichThi\obj\x86\Debug\XepLichThi.pdb
+F:\Thai\Nghien cuu\bai lam\XepLichThi\XepLichThi\bin\Debug\XepLichThi.exe
+F:\Thai\Nghien cuu\bai lam\XepLichThi\XepLichThi\bin\Debug\XepLichThi.pdb
+F:\Thai\Nghien cuu\bai lam\XepLichThi\XepLichThi\bin\Debug\DevComponents.DotNetBar2.dll
+F:\Thai\Nghien cuu\bai lam\XepLichThi\XepLichThi\bin\Debug\Microsoft.Office.Interop.Excel.dll
+F:\Thai\Nghien cuu\bai lam\XepLichThi\XepLichThi\bin\Debug\office.dll
+F:\Thai\Nghien cuu\bai lam\XepLichThi\XepLichThi\bin\Debug\Microsoft.Vbe.Interop.dll
+F:\Thai\Nghien cuu\bai lam\XepLichThi\XepLichThi\bin\Debug\DevComponents.Instrumentation.xml
+F:\Thai\Nghien cuu\bai lam\XepLichThi\XepLichThi\bin\Debug\Microsoft.Office.Interop.Excel.xml
+F:\Thai\Nghien cuu\bai lam\XepLichThi\XepLichThi\bin\Debug\office.xml
+F:\Thai\Nghien cuu\bai lam\XepLichThi\XepLichThi\obj\x86\Debug\XepLichThi.csprojResolveAssemblyReference.cache
+F:\Thai\Nghien cuu\bai lam\XepLichThi\XepLichThi\obj\x86\Debug\XepLichThi.frmDangNhap.resources
+F:\Thai\Nghien cuu\bai lam\XepLichThi\XepLichThi\obj\x86\Debug\XepLichThi.frmXepLichThi.resources
+F:\Thai\Nghien cuu\bai lam\XepLichThi\XepLichThi\obj\x86\Debug\XepLichThi.frmReport.resources
+F:\Thai\Nghien cuu\bai lam\XepLichThi\XepLichThi\obj\x86\Debug\XepLichThi.Properties.Resources.resources
+F:\Thai\Nghien cuu\bai lam\XepLichThi\XepLichThi\obj\x86\Debug\XepLichThi.csproj.GenerateResource.Cache
+F:\Thai\Nghien cuu\bai lam\XepLichThi\XepLichThi\obj\x86\Debug\RdlCompile.cache
+F:\Thai\Nghien cuu\bai lam\XepLichThi\XepLichThi\obj\x86\Debug\RdlCompile.compiled
+E:\Thai\Nghien cuu\bai lam\XepLichThi\XepLichThi\bin\Debug\DataAccess.dll
+E:\Thai\Nghien cuu\bai lam\XepLichThi\XepLichThi\bin\Debug\DataAccess.pdb
+E:\Thai\Nghien cuu\bai lam\XepLichThi\XepLichThi\obj\x86\Debug\XepLichThi.frmQlBacHoc.resources
+E:\Thai\Nghien cuu\bai lam\XepLichThi\XepLichThi\obj\x86\Debug\XepLichThi.frmQlPhocHoc.resources
+D:\TAI LIEU NAM\Xep lich thi\XepLichThi\XepLichThi\bin\Debug\XepLichThi.exe.config
+D:\TAI LIEU NAM\Xep lich thi\XepLichThi\XepLichThi\obj\x86\Debug\XepLichThi.exe
+D:\TAI LIEU NAM\Xep lich thi\XepLichThi\XepLichThi\obj\x86\Debug\XepLichThi.pdb
+D:\TAI LIEU NAM\Xep lich thi\XepLichThi\XepLichThi\bin\Debug\XepLichThi.exe
+D:\TAI LIEU NAM\Xep lich thi\XepLichThi\XepLichThi\bin\Debug\XepLichThi.pdb
+D:\TAI LIEU NAM\Xep lich thi\XepLichThi\XepLichThi\bin\Debug\DataAccess.dll
+D:\TAI LIEU NAM\Xep lich thi\XepLichThi\XepLichThi\bin\Debug\DevComponents.DotNetBar2.dll
+D:\TAI LIEU NAM\Xep lich thi\XepLichThi\XepLichThi\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\TAI LIEU NAM\Xep lich thi\XepLichThi\XepLichThi\bin\Debug\office.dll
+D:\TAI LIEU NAM\Xep lich thi\XepLichThi\XepLichThi\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\TAI LIEU NAM\Xep lich thi\XepLichThi\XepLichThi\bin\Debug\DataAccess.pdb
+D:\TAI LIEU NAM\Xep lich thi\XepLichThi\XepLichThi\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\TAI LIEU NAM\Xep lich thi\XepLichThi\XepLichThi\bin\Debug\office.xml
+D:\TAI LIEU NAM\Xep lich thi\XepLichThi\XepLichThi\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\TAI LIEU NAM\Xep lich thi\XepLichThi\XepLichThi\obj\x86\Debug\XepLichThi.frmDangNhap.resources
+D:\TAI LIEU NAM\Xep lich thi\XepLichThi\XepLichThi\obj\x86\Debug\XepLichThi.frmXepLichThi.resources
+D:\TAI LIEU NAM\Xep lich thi\XepLichThi\XepLichThi\obj\x86\Debug\XepLichThi.frmQlBacHoc.resources
+D:\TAI LIEU NAM\Xep lich thi\XepLichThi\XepLichThi\obj\x86\Debug\XepLichThi.frmQlPhocHoc.resources
+D:\TAI LIEU NAM\Xep lich thi\XepLichThi\XepLichThi\obj\x86\Debug\XepLichThi.frmReport.resources
+D:\TAI LIEU NAM\Xep lich thi\XepLichThi\XepLichThi\obj\x86\Debug\XepLichThi.Properties.Resources.resources
+D:\TAI LIEU NAM\Xep lich thi\XepLichThi\XepLichThi\obj\x86\Debug\ResGen.read.1.tlog
+D:\TAI LIEU NAM\Xep lich thi\XepLichThi\XepLichThi\obj\x86\Debug\ResGen.write.1.tlog
+D:\TAI LIEU NAM\Xep lich thi\XepLichThi\XepLichThi\obj\x86\Debug\RdlCompile.cache
+D:\TAI LIEU NAM\Xep lich thi\XepLichThi\XepLichThi\obj\x86\Debug\RdlCompile.compiled
+D:\TAI LIEU NAM\Xep lich thi\XepLichThi\XepLichThi\obj\x86\Debug\XepLichThi.frmQlTiet.resources
+E:\TAI LIEU NAM\Xep lich thi\XepLichThi\XepLichThi\bin\Debug\XepLichThi.exe.config
+E:\TAI LIEU NAM\Xep lich thi\XepLichThi\XepLichThi\obj\x86\Debug\XepLichThi.exe
+E:\TAI LIEU NAM\Xep lich thi\XepLichThi\XepLichThi\obj\x86\Debug\XepLichThi.pdb
+E:\TAI LIEU NAM\Xep lich thi\XepLichThi\XepLichThi\obj\x86\Debug\XepLichThi.csprojResolveAssemblyReference.cache
+E:\TAI LIEU NAM\Xep lich thi\XepLichThi\XepLichThi\obj\x86\Debug\XepLichThi.frmDangNhap.resources
+E:\TAI LIEU NAM\Xep lich thi\XepLichThi\XepLichThi\obj\x86\Debug\XepLichThi.frmQlTiet.resources
+E:\TAI LIEU NAM\Xep lich thi\XepLichThi\XepLichThi\obj\x86\Debug\XepLichThi.frmXepLichThi.resources
+E:\TAI LIEU NAM\Xep lich thi\XepLichThi\XepLichThi\obj\x86\Debug\XepLichThi.frmQlBacHoc.resources
+E:\TAI LIEU NAM\Xep lich thi\XepLichThi\XepLichThi\obj\x86\Debug\XepLichThi.frmQlPhocHoc.resources
+E:\TAI LIEU NAM\Xep lich thi\XepLichThi\XepLichThi\obj\x86\Debug\XepLichThi.frmReport.resources
+E:\TAI LIEU NAM\Xep lich thi\XepLichThi\XepLichThi\obj\x86\Debug\XepLichThi.Properties.Resources.resources
+E:\TAI LIEU NAM\Xep lich thi\XepLichThi\XepLichThi\obj\x86\Debug\XepLichThi.csproj.GenerateResource.Cache
+E:\TAI LIEU NAM\Xep lich thi\XepLichThi\XepLichThi\obj\x86\Debug\RdlCompile.cache
+E:\TAI LIEU NAM\Xep lich thi\XepLichThi\XepLichThi\obj\x86\Debug\RdlCompile.compiled
+E:\TAI LIEU NAM\Xep lich thi\XepLichThi\XepLichThi\bin\Debug\XepLichThi.exe
+E:\TAI LIEU NAM\Xep lich thi\XepLichThi\XepLichThi\bin\Debug\XepLichThi.pdb
+E:\TAI LIEU NAM\Xep lich thi\XepLichThi\XepLichThi\bin\Debug\DataAccess.dll
+E:\TAI LIEU NAM\Xep lich thi\XepLichThi\XepLichThi\bin\Debug\DevComponents.DotNetBar2.dll
+E:\TAI LIEU NAM\Xep lich thi\XepLichThi\XepLichThi\bin\Debug\DataAccess.pdb
+C:\Users\NguyenThai\Desktop\XepLichThi\XepLichThi\bin\Debug\XepLichThi.exe.config
+C:\Users\NguyenThai\Desktop\XepLichThi\XepLichThi\obj\x86\Debug\XepLichThi.exe
+C:\Users\NguyenThai\Desktop\XepLichThi\XepLichThi\obj\x86\Debug\XepLichThi.pdb
+C:\Users\NguyenThai\Desktop\XepLichThi\XepLichThi\bin\Debug\XepLichThi.exe
+C:\Users\NguyenThai\Desktop\XepLichThi\XepLichThi\bin\Debug\XepLichThi.pdb
+C:\Users\NguyenThai\Desktop\XepLichThi\XepLichThi\bin\Debug\DataAccess.dll
+C:\Users\NguyenThai\Desktop\XepLichThi\XepLichThi\bin\Debug\DevComponents.DotNetBar.Design.dll
+C:\Users\NguyenThai\Desktop\XepLichThi\XepLichThi\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\NguyenThai\Desktop\XepLichThi\XepLichThi\bin\Debug\DevComponents.Instrumentation.Design.dll
+C:\Users\NguyenThai\Desktop\XepLichThi\XepLichThi\bin\Debug\DevComponents.Instrumentation.dll
+C:\Users\NguyenThai\Desktop\XepLichThi\XepLichThi\bin\Debug\DevComponents.TreeGX.dll
+C:\Users\NguyenThai\Desktop\XepLichThi\XepLichThi\bin\Debug\DataAccess.pdb
+C:\Users\NguyenThai\Desktop\XepLichThi\XepLichThi\bin\Debug\DevComponents.Instrumentation.xml
+C:\Users\NguyenThai\Desktop\XepLichThi\XepLichThi\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\NguyenThai\Desktop\XepLichThi\XepLichThi\obj\x86\Debug\XepLichThi.frmDangNhap.resources
+C:\Users\NguyenThai\Desktop\XepLichThi\XepLichThi\obj\x86\Debug\XepLichThi.frmQlTiet.resources
+C:\Users\NguyenThai\Desktop\XepLichThi\XepLichThi\obj\x86\Debug\XepLichThi.frmXepLichThi.resources
+C:\Users\NguyenThai\Desktop\XepLichThi\XepLichThi\obj\x86\Debug\XepLichThi.frmQlBacHoc.resources
+C:\Users\NguyenThai\Desktop\XepLichThi\XepLichThi\obj\x86\Debug\XepLichThi.frmReport.resources
+C:\Users\NguyenThai\Desktop\XepLichThi\XepLichThi\obj\x86\Debug\XepLichThi.Properties.Resources.resources
+C:\Users\NguyenThai\Desktop\XepLichThi\XepLichThi\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\NguyenThai\Desktop\XepLichThi\XepLichThi\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\NguyenThai\Desktop\XepLichThi\XepLichThi\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\NguyenThai\Desktop\XepLichThi\XepLichThi\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\NguyenThai\Desktop\XepLichThi\XepLichThi\obj\x86\Debug\RdlCompile.cache
+C:\Users\NguyenThai\Desktop\XepLichThi\XepLichThi\obj\x86\Debug\RdlCompile.compiled
+C:\Users\NguyenThai\Desktop\XepLichThi\XepLichThi\obj\x86\Debug\XepLichThi.frmQlPhongHoc.resources
+C:\Users\NguyenThai\Desktop\XepLichThi\XepLichThi\obj\x86\Debug\XepLichThi.frmDoiMatKhau.resources
+C:\Users\NguyenThai\Desktop\XepLichThi\XepLichThi\obj\x86\Debug\XepLichThi.frmDangKi.resources
+E:\XepLichThi\XepLichThi\bin\Debug\XepLichThi.exe.config
+E:\XepLichThi\XepLichThi\obj\x86\Debug\XepLichThi.exe
+E:\XepLichThi\XepLichThi\obj\x86\Debug\XepLichThi.pdb
+E:\XepLichThi\XepLichThi\bin\Debug\XepLichThi.exe
+E:\XepLichThi\XepLichThi\bin\Debug\XepLichThi.pdb
+E:\XepLichThi\XepLichThi\bin\Debug\DataAccess.dll
+E:\XepLichThi\XepLichThi\bin\Debug\DevComponents.DotNetBar2.dll
+E:\XepLichThi\XepLichThi\bin\Debug\DataAccess.pdb
+E:\XepLichThi\XepLichThi\bin\Debug\DevComponents.Instrumentation.xml
+E:\XepLichThi\XepLichThi\obj\x86\Debug\XepLichThi.csprojResolveAssemblyReference.cache
+E:\XepLichThi\XepLichThi\obj\x86\Debug\XepLichThi.frmDangKi.resources
+E:\XepLichThi\XepLichThi\obj\x86\Debug\XepLichThi.frmDangNhap.resources
+E:\XepLichThi\XepLichThi\obj\x86\Debug\XepLichThi.frmDoiMatKhau.resources
+E:\XepLichThi\XepLichThi\obj\x86\Debug\XepLichThi.frmQlTiet.resources
+E:\XepLichThi\XepLichThi\obj\x86\Debug\XepLichThi.frmXepLichThi.resources
+E:\XepLichThi\XepLichThi\obj\x86\Debug\XepLichThi.frmQlBacHoc.resources
+E:\XepLichThi\XepLichThi\obj\x86\Debug\XepLichThi.frmQlPhongHoc.resources
+E:\XepLichThi\XepLichThi\obj\x86\Debug\XepLichThi.frmReport.resources
+E:\XepLichThi\XepLichThi\obj\x86\Debug\XepLichThi.Properties.Resources.resources
+E:\XepLichThi\XepLichThi\obj\x86\Debug\XepLichThi.csproj.GenerateResource.Cache
+E:\XepLichThi\XepLichThi\obj\x86\Debug\RdlCompile.cache
+E:\XepLichThi\XepLichThi\obj\x86\Debug\RdlCompile.compiled
+D:\xep lich new\XepLichThi\XepLichThi\bin\Debug\XepLichThi.exe.config
+D:\xep lich new\XepLichThi\XepLichThi\obj\x86\Debug\XepLichThi.exe
+D:\xep lich new\XepLichThi\XepLichThi\obj\x86\Debug\XepLichThi.pdb
+D:\xep lich new\XepLichThi\XepLichThi\bin\Debug\XepLichThi.exe
+D:\xep lich new\XepLichThi\XepLichThi\bin\Debug\XepLichThi.pdb
+D:\xep lich new\XepLichThi\XepLichThi\bin\Debug\DataAccess.dll
+D:\xep lich new\XepLichThi\XepLichThi\bin\Debug\DevComponents.DotNetBar2.dll
+D:\xep lich new\XepLichThi\XepLichThi\bin\Debug\DataAccess.pdb
+D:\xep lich new\XepLichThi\XepLichThi\bin\Debug\DevComponents.Instrumentation.xml
+D:\xep lich new\XepLichThi\XepLichThi\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\xep lich new\XepLichThi\XepLichThi\obj\x86\Debug\XepLichThi.frmDangKi.resources
+D:\xep lich new\XepLichThi\XepLichThi\obj\x86\Debug\XepLichThi.frmDangNhap.resources
+D:\xep lich new\XepLichThi\XepLichThi\obj\x86\Debug\XepLichThi.frmDoiMatKhau.resources
+D:\xep lich new\XepLichThi\XepLichThi\obj\x86\Debug\XepLichThi.frmQlTiet.resources
+D:\xep lich new\XepLichThi\XepLichThi\obj\x86\Debug\XepLichThi.frmQlBacHoc.resources
+D:\xep lich new\XepLichThi\XepLichThi\obj\x86\Debug\XepLichThi.frmQlPhongHoc.resources
+D:\xep lich new\XepLichThi\XepLichThi\obj\x86\Debug\XepLichThi.frmReport.resources
+D:\xep lich new\XepLichThi\XepLichThi\obj\x86\Debug\XepLichThi.Properties.Resources.resources
+D:\xep lich new\XepLichThi\XepLichThi\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\xep lich new\XepLichThi\XepLichThi\obj\x86\Debug\ResGen.read.1.tlog
+D:\xep lich new\XepLichThi\XepLichThi\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\xep lich new\XepLichThi\XepLichThi\obj\x86\Debug\ResGen.write.1.tlog
+D:\xep lich new\XepLichThi\XepLichThi\obj\x86\Debug\XepLichThi.frmSelectPhong.resources
+D:\xep lich new\XepLichThi\XepLichThi\obj\x86\Debug\XepLichThi.frmFormMain.resources
+D:\DATA\PROJECT\xep lich new\XepLichThi\XepLichThi\bin\Debug\XepLichThi.exe.config
+D:\DATA\PROJECT\xep lich new\XepLichThi\XepLichThi\obj\x86\Debug\XepLichThi.exe
+D:\DATA\PROJECT\xep lich new\XepLichThi\XepLichThi\obj\x86\Debug\XepLichThi.pdb
+D:\DATA\PROJECT\xep lich new\XepLichThi\XepLichThi\bin\Debug\XepLichThi.exe
+D:\DATA\PROJECT\xep lich new\XepLichThi\XepLichThi\bin\Debug\XepLichThi.pdb
+D:\DATA\PROJECT\xep lich new\XepLichThi\XepLichThi\bin\Debug\DataAccess.dll
+D:\DATA\PROJECT\xep lich new\XepLichThi\XepLichThi\bin\Debug\DevComponents.DotNetBar2.dll
+D:\DATA\PROJECT\xep lich new\XepLichThi\XepLichThi\bin\Debug\DataAccess.pdb
+D:\DATA\PROJECT\xep lich new\XepLichThi\XepLichThi\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\DATA\PROJECT\xep lich new\XepLichThi\XepLichThi\obj\x86\Debug\XepLichThi.frmDangKi.resources
+D:\DATA\PROJECT\xep lich new\XepLichThi\XepLichThi\obj\x86\Debug\XepLichThi.frmDangNhap.resources
+D:\DATA\PROJECT\xep lich new\XepLichThi\XepLichThi\obj\x86\Debug\XepLichThi.frmDoiMatKhau.resources
+D:\DATA\PROJECT\xep lich new\XepLichThi\XepLichThi\obj\x86\Debug\XepLichThi.frmQlTiet.resources
+D:\DATA\PROJECT\xep lich new\XepLichThi\XepLichThi\obj\x86\Debug\XepLichThi.frmSelectPhong.resources
+D:\DATA\PROJECT\xep lich new\XepLichThi\XepLichThi\obj\x86\Debug\XepLichThi.frmFormMain.resources
+D:\DATA\PROJECT\xep lich new\XepLichThi\XepLichThi\obj\x86\Debug\XepLichThi.frmQlBacHoc.resources
+D:\DATA\PROJECT\xep lich new\XepLichThi\XepLichThi\obj\x86\Debug\XepLichThi.frmQlPhongHoc.resources
+D:\DATA\PROJECT\xep lich new\XepLichThi\XepLichThi\obj\x86\Debug\XepLichThi.frmReport.resources
+D:\DATA\PROJECT\xep lich new\XepLichThi\XepLichThi\obj\x86\Debug\XepLichThi.Properties.Resources.resources
+D:\DATA\PROJECT\xep lich new\XepLichThi\XepLichThi\obj\x86\Debug\ResGen.read.1.tlog
+D:\DATA\PROJECT\xep lich new\XepLichThi\XepLichThi\obj\x86\Debug\ResGen.write.1.tlog
+D:\DATA\PROJECT\xep lich new\XepLichThi\XepLichThi\obj\x86\Debug\XepLichThi.frmChonPhong.resources
+D:\DATA\PROJECT\xep lich new\XepLichThi\XepLichThi\obj\x86\Debug\XepLichThi.frmChonNhom.resources
+D:\DATA\PROJECT\xep lich new\XepLichThi\XepLichThi\obj\x86\Debug\XepLichThi.frmSelectNhom.resources
+D:\DATA\PROJECT\xep lich new\XepLichThi\XepLichThi\obj\x86\Debug\XepLichThi.frmLoadData.resources
+F:\GITHUB\XEPLICHTHI\XepLichThi\XepLichThi\bin\Debug\XepLichThi.exe.config
+F:\GITHUB\XEPLICHTHI\XepLichThi\XepLichThi\obj\x86\Debug\XepLichThi.exe
+F:\GITHUB\XEPLICHTHI\XepLichThi\XepLichThi\obj\x86\Debug\XepLichThi.pdb
+F:\GITHUB\XEPLICHTHI\XepLichThi\XepLichThi\bin\Debug\XepLichThi.exe
+F:\GITHUB\XEPLICHTHI\XepLichThi\XepLichThi\bin\Debug\XepLichThi.pdb
+F:\GITHUB\XEPLICHTHI\XepLichThi\XepLichThi\bin\Debug\DataAccess.dll
+F:\GITHUB\XEPLICHTHI\XepLichThi\XepLichThi\bin\Debug\DevComponents.DotNetBar2.dll
+F:\GITHUB\XEPLICHTHI\XepLichThi\XepLichThi\bin\Debug\Microsoft.ReportViewer.Common.dll
+F:\GITHUB\XEPLICHTHI\XepLichThi\XepLichThi\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+F:\GITHUB\XEPLICHTHI\XepLichThi\XepLichThi\bin\Debug\office.dll
+F:\GITHUB\XEPLICHTHI\XepLichThi\XepLichThi\bin\Debug\Microsoft.Vbe.Interop.dll
+F:\GITHUB\XEPLICHTHI\XepLichThi\XepLichThi\bin\Debug\stdole.dll
+F:\GITHUB\XEPLICHTHI\XepLichThi\XepLichThi\bin\Debug\DataAccess.pdb
+F:\GITHUB\XEPLICHTHI\XepLichThi\XepLichThi\bin\Debug\DevComponents.Instrumentation.xml
+F:\GITHUB\XEPLICHTHI\XepLichThi\XepLichThi\bin\Debug\Microsoft.Office.Interop.Excel.xml
+F:\GITHUB\XEPLICHTHI\XepLichThi\XepLichThi\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+F:\GITHUB\XEPLICHTHI\XepLichThi\XepLichThi\bin\Debug\office.xml
+F:\GITHUB\XEPLICHTHI\XepLichThi\XepLichThi\obj\x86\Debug\XepLichThi.csprojResolveAssemblyReference.cache
+F:\GITHUB\XEPLICHTHI\XepLichThi\XepLichThi\obj\x86\Debug\XepLichThi.frmChonNhom.resources
+F:\GITHUB\XEPLICHTHI\XepLichThi\XepLichThi\obj\x86\Debug\XepLichThi.frmChonPhong.resources
+F:\GITHUB\XEPLICHTHI\XepLichThi\XepLichThi\obj\x86\Debug\XepLichThi.frmDangKi.resources
+F:\GITHUB\XEPLICHTHI\XepLichThi\XepLichThi\obj\x86\Debug\XepLichThi.frmDangNhap.resources
+F:\GITHUB\XEPLICHTHI\XepLichThi\XepLichThi\obj\x86\Debug\XepLichThi.frmDoiMatKhau.resources
+F:\GITHUB\XEPLICHTHI\XepLichThi\XepLichThi\obj\x86\Debug\XepLichThi.frmLoadData.resources
+F:\GITHUB\XEPLICHTHI\XepLichThi\XepLichThi\obj\x86\Debug\XepLichThi.frmQlTiet.resources
+F:\GITHUB\XEPLICHTHI\XepLichThi\XepLichThi\obj\x86\Debug\XepLichThi.frmSelectNhom.resources
+F:\GITHUB\XEPLICHTHI\XepLichThi\XepLichThi\obj\x86\Debug\XepLichThi.frmSelectPhong.resources
+F:\GITHUB\XEPLICHTHI\XepLichThi\XepLichThi\obj\x86\Debug\XepLichThi.frmFormMain.resources
+F:\GITHUB\XEPLICHTHI\XepLichThi\XepLichThi\obj\x86\Debug\XepLichThi.frmQlBacHoc.resources
+F:\GITHUB\XEPLICHTHI\XepLichThi\XepLichThi\obj\x86\Debug\XepLichThi.frmQlPhongHoc.resources
+F:\GITHUB\XEPLICHTHI\XepLichThi\XepLichThi\obj\x86\Debug\XepLichThi.frmReport.resources
+F:\GITHUB\XEPLICHTHI\XepLichThi\XepLichThi\obj\x86\Debug\XepLichThi.Properties.Resources.resources
+F:\GITHUB\XEPLICHTHI\XepLichThi\XepLichThi\obj\x86\Debug\XepLichThi.csproj.GenerateResource.Cache

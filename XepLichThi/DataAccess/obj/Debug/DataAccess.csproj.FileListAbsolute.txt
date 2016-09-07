@@ -1,0 +1,43 @@
+E:\Thai\Nghien cuu\bai lam\XepLichThi\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+E:\Thai\Nghien cuu\bai lam\XepLichThi\DataAccess\bin\Debug\DataAccess.dll
+E:\Thai\Nghien cuu\bai lam\XepLichThi\DataAccess\bin\Debug\DataAccess.pdb
+E:\Thai\Nghien cuu\bai lam\XepLichThi\DataAccess\obj\Debug\DataAccess.dll
+E:\Thai\Nghien cuu\bai lam\XepLichThi\DataAccess\obj\Debug\DataAccess.pdb
+D:\TAI LIEU NAM\Xep lich thi\XepLichThi\DataAccess\bin\Debug\DataAccess.dll
+D:\TAI LIEU NAM\Xep lich thi\XepLichThi\DataAccess\bin\Debug\DataAccess.pdb
+D:\TAI LIEU NAM\Xep lich thi\XepLichThi\DataAccess\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\TAI LIEU NAM\Xep lich thi\XepLichThi\DataAccess\bin\Debug\office.dll
+D:\TAI LIEU NAM\Xep lich thi\XepLichThi\DataAccess\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\TAI LIEU NAM\Xep lich thi\XepLichThi\DataAccess\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\TAI LIEU NAM\Xep lich thi\XepLichThi\DataAccess\bin\Debug\office.xml
+D:\TAI LIEU NAM\Xep lich thi\XepLichThi\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+D:\TAI LIEU NAM\Xep lich thi\XepLichThi\DataAccess\obj\Debug\DataAccess.dll
+D:\TAI LIEU NAM\Xep lich thi\XepLichThi\DataAccess\obj\Debug\DataAccess.pdb
+E:\TAI LIEU NAM\Xep lich thi\XepLichThi\DataAccess\bin\Debug\DataAccess.dll
+E:\TAI LIEU NAM\Xep lich thi\XepLichThi\DataAccess\bin\Debug\DataAccess.pdb
+E:\TAI LIEU NAM\Xep lich thi\XepLichThi\DataAccess\obj\Debug\DataAccess.dll
+E:\TAI LIEU NAM\Xep lich thi\XepLichThi\DataAccess\obj\Debug\DataAccess.pdb
+E:\TAI LIEU NAM\Xep lich thi\XepLichThi\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\NguyenThai\Desktop\XepLichThi\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\NguyenThai\Desktop\XepLichThi\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\NguyenThai\Desktop\XepLichThi\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\NguyenThai\Desktop\XepLichThi\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\NguyenThai\Desktop\XepLichThi\DataAccess\obj\Debug\DataAccess.pdb
+E:\XepLichThi\DataAccess\bin\Debug\DataAccess.dll
+E:\XepLichThi\DataAccess\bin\Debug\DataAccess.pdb
+E:\XepLichThi\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+E:\XepLichThi\DataAccess\obj\Debug\DataAccess.dll
+E:\XepLichThi\DataAccess\obj\Debug\DataAccess.pdb
+D:\xep lich new\XepLichThi\DataAccess\bin\Debug\DataAccess.dll
+D:\xep lich new\XepLichThi\DataAccess\bin\Debug\DataAccess.pdb
+D:\xep lich new\XepLichThi\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+D:\xep lich new\XepLichThi\DataAccess\obj\Debug\DataAccess.dll
+D:\xep lich new\XepLichThi\DataAccess\obj\Debug\DataAccess.pdb
+D:\DATA\PROJECT\xep lich new\XepLichThi\DataAccess\bin\Debug\DataAccess.dll
+D:\DATA\PROJECT\xep lich new\XepLichThi\DataAccess\bin\Debug\DataAccess.pdb
+D:\DATA\PROJECT\xep lich new\XepLichThi\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+D:\DATA\PROJECT\xep lich new\XepLichThi\DataAccess\obj\Debug\DataAccess.dll
+D:\DATA\PROJECT\xep lich new\XepLichThi\DataAccess\obj\Debug\DataAccess.pdb
+D:\DATA\PROJECT\xep lich new\XepLichThi\DataAccess\obj\Debug\DataAccess.frmProcess.resources
+D:\DATA\PROJECT\xep lich new\XepLichThi\DataAccess\obj\Debug\ResGen.read.1.tlog
+D:\DATA\PROJECT\xep lich new\XepLichThi\DataAccess\obj\Debug\ResGen.write.1.tlog
